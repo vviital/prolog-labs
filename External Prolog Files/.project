@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>External Prolog Files</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>home/vviital/eclipse/eclipse/plugins/org.cs3.pdt.connector_3.1.2.201504300958/pl/pdt_reload.pl</name>
+			<type>1</type>
+			<location>/home/vviital/eclipse/eclipse/plugins/org.cs3.pdt.connector_3.1.2.201504300958/pl/pdt_reload.pl</location>
+		</link>
+	</linkedResources>
+</projectDescription>
